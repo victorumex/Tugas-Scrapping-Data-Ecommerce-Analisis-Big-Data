@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Folder Scrapy
+.scrapy/
+
+# Hasil Scrape (JANGAN upload data Anda, hanya kodenya)
+*.csv
+*.json
+*.xml
+*.jl
+
+# File-file sistem operasi
+.DS_Store
